@@ -9,7 +9,7 @@ A likely feable attempt to complete Advent of Code 2022 in Haskell.
 - [x] Day 2 :biohazard:
 - [x] Day 3 :biohazard:
 - [x] Day 4 :biohazard:
-- [ ] Day 5
+- [x] Day 5 :biohazard:
 - [ ] Day 6
 - [ ] Day 7
 - [ ] Day 8
